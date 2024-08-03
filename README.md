@@ -18,3 +18,7 @@ This is a simple To-Do List application built with React and Redux. The app allo
 - Click the "📝" button next to a task to edit it.
 - Click the "🗑️" button next to a task to delete it.
 - Click the "Delete All" button to remove all tasks from the list.
+
+- ## App preview
+
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF1.png)
