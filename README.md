@@ -21,4 +21,4 @@ This is a simple To-Do List application built with React and Redux. The app allo
 
 - ## App preview
 
-![image](https://github.com/amitprasad1403/financefusion/blob/main/FF1.png)
+![image](https://github.com/amitprasad1403/redux-to-do-list/blob/main/RTDL.png)
