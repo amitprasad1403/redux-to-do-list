@@ -14,8 +14,7 @@ This is a simple To-Do List application built with React and Redux. The app allo
 ## Usage
 
 - Open your browser and go to `http://localhost:3000`.
-- Enter a new task in the input field and click "Add" to add it to the list.
-- Click the "📝" button next to a task to edit it.
+- Enter a new task in the input field and click "Add" to add it to the list. 
 - Click the "🗑️" button next to a task to delete it.
 - Click the "Delete All" button to remove all tasks from the list.
 
